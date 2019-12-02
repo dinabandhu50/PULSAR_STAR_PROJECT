@@ -1,2 +1,3 @@
-# CREDIT_CARD_FRAUD
-This repo contains credit card fraud data-set for classification. the output is imbalanced classes 
+# PULSAR_STAR
+
+This repo contains pulsar star data-set for classification.
